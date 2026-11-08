@@ -1,0 +1,3 @@
+Processing_Mode,Total_Events,Final_Nodes,Final_Edges,Elapsed_Time_Seconds
+Streaming,1900,1000,996,21.36828864800009
+Batch,1900,1000,996,0.005588967999983652
